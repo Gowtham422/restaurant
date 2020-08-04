@@ -1,0 +1,66 @@
+{
+  "restro": [
+    {
+      "name": "KFC",
+      "Address": "Shivajinagar, Pune",
+      "email": "kfc@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "McDonald's",
+      "Address": "Kothrud, Pune",
+      "email": "mcdonalds@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Domino's",
+      "Address": "Warje, Pune",
+      "email": "dominos@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Gowtham Restaurant",
+      "Address": "Chennai",
+      "email": "gowthamkkalpana3@gmail.com",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Gowtham",
+      "password": "123456",
+      "email": "gowthamkkalpana@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Srinivasan",
+      "password": "1234567",
+      "email": "srini@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Srinivasan",
+      "password": "1234567",
+      "email": "srini@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "gowtham",
+      "password": "123456",
+      "email": "aaaa@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "gowtham",
+      "password": "123456",
+      "email": "aaaa@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "ssss",
+      "password": "ssss",
+      "email": "sss",
+      "id": 6
+    }
+  ]
+}
